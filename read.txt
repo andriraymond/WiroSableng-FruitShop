@@ -1,0 +1,2 @@
+Install composer terlebih dahulu agar vendor terdownload
+cmd -> composer install

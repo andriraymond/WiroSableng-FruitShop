@@ -1,6 +1,7 @@
 {
    "require": {
      "catfan/medoo": "^1.7.5",
-     "twig/twig": "^2.15.3"
+     "twig/twig": "^2.15.3",
+     "slim/psr7": "^1.4.1"
    }
  }
